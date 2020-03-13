@@ -1,0 +1,17 @@
+.header {
+    background-color: cornflowerblue;
+    color: cornsilk;
+    margin: 25px;
+    padding: 25px;
+}
+
+.fb {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.right {
+    display: flex;
+    position: absolute;
+    right: 100px;
+    top: 30px;
+}
